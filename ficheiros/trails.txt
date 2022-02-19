@@ -1,0 +1,13 @@
+Volta às origens;2022-01-3;Penafiel
+Vouga Trail;2022-01-08;Server do Vouga
+Trail dos Reis;2022-01-09;Beja
+Trails Rota do Crasto;2022-01-23;Viseu
+Trilhos de Viana;2022-02-06;Viana do Castelo
+Trail do cavalo;2022-02-13;Alter do Chão
+Trail Marvão;2022-02-20;Portalegre
+Trail Ribeira de Limas;2022-02-27;Serpa
+Trail Bela Bela;2022-04-03;Águeda
+Trail do Texugo;2022-04-10;Évora
+Trail Rota da Capelas;2022-04-17;Marco Canaveses
+Trail São Mamede;2022-05-06;Portalegre
+Trail de Cerveira;2022-05-07;Cerveira
